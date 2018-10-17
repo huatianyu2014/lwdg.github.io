@@ -2,4 +2,4 @@
 ## This is Luowen Empire's page.
 
 
-![班主任](lwd.jpg) 
+![班主任](lwd.JPG) 
